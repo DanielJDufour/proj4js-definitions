@@ -1,4 +1,4 @@
-# proj4js-defs
+# proj4js-definitions
 Almost All the Projection Definitions for Proj4js
 
 # simple approach
@@ -10,12 +10,12 @@ The data source crs-csv is actually created by scraping a locally running instan
 
 # install
 ```bash
-npm install proj4js-defs
+npm install proj4js-definitions
 ```
 
 # usage in code
 ```bash
-const defs = require("proj4js-defs");
+const defs = require("proj4js-definitions");
 ```
 defs are an array
 ```
