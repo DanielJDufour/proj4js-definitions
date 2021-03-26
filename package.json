@@ -1,0 +1,35 @@
+{
+  "name": "proj4js-defs",
+  "version": "0.0.0",
+  "description": "Almost All the Projection Definitions for Proj4js",
+  "main": "proj4js-defs.json",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/proj4js-defs.git"
+  },
+  "keywords": [
+    "coordinate",
+    "definition",
+    "geodesy",
+    "geospatial",
+    "gis",
+    "map",
+    "proj4",
+    "proj4js"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/proj4js-defs/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/proj4js-defs#readme",
+  "devDependencies": {
+    "cross-fetch": "^3.1.2",
+    "decompress": "^4.2.1",
+    "papaparse": "^5.3.0"
+  }
+}
