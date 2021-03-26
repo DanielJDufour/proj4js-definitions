@@ -1,10 +1,10 @@
 {
-  "name": "proj4js-defs",
+  "name": "proj4js-definitions",
   "version": "0.0.0",
   "description": "Almost All the Projection Definitions for Proj4js",
-  "main": "proj4js-defs.json",
+  "main": "proj4js-definitions.json",
   "files": [
-    "proj4js-defs.json"
+    "proj4js-definitions.json"
   ],
   "scripts": {
     "build": "node build.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielJDufour/proj4js-defs.git"
+    "url": "git+https://github.com/DanielJDufour/proj4js-definitions.git"
   },
   "keywords": [
     "coordinate",
@@ -27,9 +27,9 @@
   "author": "Daniel J. Dufour",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/DanielJDufour/proj4js-defs/issues"
+    "url": "https://github.com/DanielJDufour/proj4js-definitions/issues"
   },
-  "homepage": "https://github.com/DanielJDufour/proj4js-defs#readme",
+  "homepage": "https://github.com/DanielJDufour/proj4js-definitions#readme",
   "devDependencies": {
     "cross-fetch": "^3.1.2",
     "decompress": "^4.2.1",
