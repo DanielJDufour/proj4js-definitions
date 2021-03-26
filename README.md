@@ -1,6 +1,13 @@
 # proj4js-defs
 Almost All the Projection Definitions for Proj4js
 
+# simple approach
+- Download the Coordinate Reference System CSV from https://github.com/DanielJDufour/crs-csv
+- Pull out the Code and proj4 columns and transform to a JSON file
+
+# acknowledgements
+The data source crs-csv is actually created by scraping a locally running instance of epsg.io
+
 # install
 ```bash
 npm install proj4js-defs
