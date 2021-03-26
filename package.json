@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Almost All the Projection Definitions for Proj4js",
   "main": "proj4js-defs.json",
+  "files": [
+    "proj4js-defs.json"
+  ],
   "scripts": {
     "build": "node build.js",
     "test": "node test.js"
