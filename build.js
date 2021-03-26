@@ -23,5 +23,5 @@
   .map(row => ['EPSG:' + row.code, row.proj4])
   console.log("defs.length:", defs.length);
 
-  fs.writeFileSync("./proj4js-defs.json", JSON.stringify(defs));
+  fs.writeFileSync("./proj4js-definitions.json", JSON.stringify(defs));
 })();
