@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Other Files
+*bak*
+
+# Package Specific
+data/crs.csv
+data/defs.js
+data/modified-defs.js
+data/defs.json
+data/modified-defs.json
