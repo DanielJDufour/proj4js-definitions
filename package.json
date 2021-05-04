@@ -1,6 +1,6 @@
 {
   "name": "proj4js-definitions",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Almost All the Projection Definitions for Proj4js",
   "main": "proj4js-definitions.js",
   "files": [
